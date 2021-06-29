@@ -20,8 +20,8 @@ Solution to the [Loopstudios Landing Page challenge on Frontend Mentor](https://
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page  
+- View the optimal layout for the site depending on their device's screen size.
+- See hover states for all interactive elements on the page.  
 
 ### Screenshot
 
